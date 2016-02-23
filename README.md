@@ -1,4 +1,5 @@
 # CI_web_applciation_detector
+Author: Jacky, Shek Pak Man 
 
 Installation
 
