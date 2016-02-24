@@ -6,7 +6,7 @@ Installation
 1. load the sql file to install table (MYSQL)
 2. edit `$autoload['libraries'] = array('app_defender_regconizer');` in `application/config/autoload.php`
 3. put `logBase_controller` to `application/core/`
-4. Your controller extend `logBaseController`
+4. Your controller extend `logBase_controller`
 5. put `log_model` to `application/model/`
 
 
